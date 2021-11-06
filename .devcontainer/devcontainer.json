@@ -24,7 +24,12 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"vscjava.vscode-java-pack",
-		"pivotal.vscode-spring-boot"
+		"pivotal.vscode-spring-boot",
+		"pivotal.vscode-boot-dev-pack",
+		"vscjava.vscode-spring-boot-dashboard",
+		"vscjava.vscode-gradle",
+		"harsh.graphql-for-vscode",
+
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
